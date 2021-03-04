@@ -6,7 +6,7 @@
         nuxtjs
       </h1>
       <h2 class="subtitle">
-        Vannygeeee
+        Adam
       </h2>
       <div class="links">
         <a
